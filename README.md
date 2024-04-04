@@ -1,6 +1,6 @@
 #### About me:
-  🦎 | Second-year student at Case Western Reserve University (CWRU)
-  🌷 | Majoring in Computer Science (B.S.) and minoring in Anthropology
+  🦎 | Second-year student at Case Western Reserve University (CWRU) <br />
+  🌷 | Majoring in Computer Science (B.S.) and minoring in Anthropology <br />
 
 #### I'm currently working on:
   🔖 | TUNI - tuning feature for a smart lamp. Our app will allow users to select a desired note and track how the current note they play compares. The lamp will turn different shades depending on how high or low the current note is compared to the desired note
