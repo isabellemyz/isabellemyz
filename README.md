@@ -1,5 +1,5 @@
 #### About me:
-  🦎 | Rising third-year student at Case Western Reserve University (CWRU) <br />
+  🦎 | Third-year student at Case Western Reserve University (CWRU) <br />
   🌷 | Majoring in Computer Science (B.S.) and minoring in Anthropology <br /><br />
 
 #### I'm currently working on:
