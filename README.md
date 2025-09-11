@@ -1,9 +1,9 @@
 #### About me:
-  🦎 | Third-year student at Case Western Reserve University (CWRU) <br />
-  🌷 | Majoring in Computer Science (B.S.) and minoring in Anthropology <br /><br />
+  🦎 | Fourth-year student at Case Western Reserve University (CWRU) <br />
+  🌷 | Majoring in Computer Science (B.S.) w/ AI concentration and minoring in Anthropology <br /><br />
 
 #### I'm currently working on:
-  🔖 | Vocally - previous hackathon project for HackCWRU 2024. Aims to give feedback on vocal presentations for things like interview responses, speeches, etc <br /><br />
+  🔖 | Nudgie - productivity companion that gives you gentle reminders (nudges) and provides analytics and insight on your work habits, screentime, and browsing history <br /><br />
 
 #### Reach out to me:
   🖇️ | isabellemyz33@gmail.com <br />
